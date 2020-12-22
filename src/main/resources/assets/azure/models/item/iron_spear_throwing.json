@@ -1,0 +1,28 @@
+{
+  "parent": "item/handheld",
+  "display": {
+    "thirdperson_righthand": {
+        "rotation": [ 0, -90, 235 ],
+        "translation": [ 0, 4.6, 0.5 ],
+        "scale": [ 1.5625, 1.5625, 1 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ 0, 90, -235 ],
+        "translation": [ 0, 4.6, 0.5 ],
+        "scale": [ 1.5625, 1.5625, 1 ]
+    },
+    "firstperson_righthand": {
+        "rotation": [ 0, -90, 25 ],
+        "translation": [ 1.13, 3.8, 1.13 ],
+        "scale": [ 1.5625, 1.5625, 1 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 0, 90, -25 ],
+        "translation": [ 1.13, 3.8, 1.13 ],
+        "scale": [ 1.5625, 1.5625, 1 ]
+    }
+},
+  "textures": {
+	"layer0": "azure:items/iron_spear"
+  }
+}
